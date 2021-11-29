@@ -11,3 +11,12 @@ I'm Marco and I am a web developer with former experience as a product owner. I 
 - 🎓 Learning & Improving
 - 🐕‍🦺 Help & Support
 - 🤪 Fun
+
+## Technologies I use
+
+- Next.js
+- React
+- TypeScript
+- CSS
+- Node.js
+- Postgres
