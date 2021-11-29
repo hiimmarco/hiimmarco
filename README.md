@@ -6,11 +6,11 @@ I'm Marco and I am a web developer with former experience as a product owner. I 
 
 ## What I value
 
-- 💪 Teamwork
-- 💬 Honesty
-- 🎓 Learning & Improving
-- 🐕‍🦺 Help & Support
-- 🤪 Fun
+💪  Teamwork
+💬  Honesty
+🎓  Learning & Improving
+🐕‍🦺  Help & Support
+🤪  Fun
 
 ## Technologies I use
 
