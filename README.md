@@ -15,6 +15,8 @@
 
 - Next.js
 - React
+- Svelte/SvelteKit
+- TailwindCSS
 - TypeScript
 - CSS
 - Node.js
