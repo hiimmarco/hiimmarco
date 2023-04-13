@@ -13,11 +13,10 @@
 
 ## Technologies I use
 
-- Next.js
-- React
+- Vue.js
+- React/Next.js
 - Svelte/SvelteKit
-- TailwindCSS
 - TypeScript
-- CSS
+- (Tailwind)CSS
 - Node.js
 - Postgres
